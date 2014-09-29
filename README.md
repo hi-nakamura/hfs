@@ -4,7 +4,7 @@ http file server
 
 ## Description
 
-HTTP file server
+HTTP file server  
 set up a shared path and port number in the setting.tml
 
 ## Requirement
